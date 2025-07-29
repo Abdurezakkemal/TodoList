@@ -54,12 +54,12 @@ Make sure you have the Flutter SDK installed on your machine. For instructions, 
 ## 📸 Screenshots
 
 <p float="left">
-  <img src="image0" width="45%" />
-   <img src="image1" width="45%" />
-   <img src="image2" width="45%" />
-   <img src="image3" width="45%" />
-   <img src="image4" width="45%" />
-  <img src="image5" width="45%" />
+  <img src="image0.jpg" width="45%" />
+   <img src="image1.jpg" width="45%" />
+   <img src="image2.jpg" width="45%" />
+   <img src="image3.jpg" width="45%" />
+   <img src="image4.jpg" width="45%" />
+  <img src="image5.jpg" width="45%" />
 
 
 
